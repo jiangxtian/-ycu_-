@@ -3,12 +3,12 @@ import json
 
 import requests
 
-cookie = 'JSESSIONID=42E27B4BF47984B7C6E63E8A2F94E4B3'
+cookie = ''        #在这输入cookie
 new_cookie = None
 date = None
 time = None
 Finished = False
-push_token = 'f2f676453f8b4023b7941f56a8304694'
+push_token = ''   #push加推送 token
 
 
 def fun1():
